@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sahil-ram45/week-3.git/static/css/main.628e3091.css",
+    "main.js": "/sahil-ram45/week-3.git/static/js/main.40507466.js",
+    "static/js/592.1ceecf5b.chunk.js": "/sahil-ram45/week-3.git/static/js/592.1ceecf5b.chunk.js",
+    "index.html": "/sahil-ram45/week-3.git/index.html",
+    "main.628e3091.css.map": "/sahil-ram45/week-3.git/static/css/main.628e3091.css.map",
+    "main.40507466.js.map": "/sahil-ram45/week-3.git/static/js/main.40507466.js.map",
+    "592.1ceecf5b.chunk.js.map": "/sahil-ram45/week-3.git/static/js/592.1ceecf5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628e3091.css",
+    "static/js/main.40507466.js"
+  ]
+}
